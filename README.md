@@ -1,3 +1,3 @@
 # NodeJSStarter
 
-Replace <<ADD HERE>> With Mongo DB connection string and Cloudera keys
+Replace <<<<ADD HERE>>>> With Mongo DB connection string and Cloudera keys
